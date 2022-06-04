@@ -1,6 +1,6 @@
 # 0x07. React Redux action creator+normalizr
 :open_file_folder: Specializations - Web Stack programming ― React  
-:bust_in_silhouette: By Johann Kerbrat, Engineering Manager at Uber Works  
+:bust_in_silhouette: By Ebube Agwaze 
 :bookmark: javascript | react | redux
 
 ## Resources
@@ -37,4 +37,4 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 7. Async Action Creators
 
 ## Software engineer
-[Sebagadis Kahsay](https://www.github.com/sebagadisk)
+[Ebube Agwaze](https://www.github.com/Ebube111)
