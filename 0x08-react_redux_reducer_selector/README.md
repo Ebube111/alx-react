@@ -42,4 +42,4 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ## Software engineer
 
-[Sebagadis Kahsay](https://www.github.com/Ebube111)
+[Ebube Agwaze](https://www.github.com/Ebube111)
